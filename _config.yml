@@ -1,0 +1,8 @@
+title: Goit-markup-hw-01
+description: 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
